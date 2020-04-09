@@ -1,0 +1,11 @@
+.allumer {
+    background-color: yellow;
+    border: black 2px solid;
+}
+
+.lampe {
+    height: 150px;
+    width: 150px;
+    border: gray 2px solid;
+    padding: 25px;
+}
